@@ -1,6 +1,6 @@
 # API de Processamento de Pagamentos
 
-![Processamento de Pagamentos](https://i.imgur.com/cEowwPz.png)
+![Processamento de Pagamentos](https://i.imgur.com/muDbKzI.png)
 
 ## Visão Geral
 
