@@ -14,7 +14,7 @@ Esta API processa pagamentos via diferentes formas, como Pix e Cartão de Crédi
 
 ---
 
-## Exemplo de Corpo da Requisição
+## Exemplo de Corpo da Response
 
 ```json
 {
